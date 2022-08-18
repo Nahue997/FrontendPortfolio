@@ -1,0 +1,13 @@
+app-argprorgama{
+    display: flex;
+    align-items: center;
+    width: 13rem;
+    justify-content: space-between;
+}
+
+app-logos{
+    display: flex;
+    align-items: center;
+    width: 15rem;
+    justify-content: space-between;
+}
